@@ -1,12 +1,11 @@
-# Install Jenkins on AWS EC2
+# Install Jenkins on Centos in Virtualbox
 Jenkins is a self-contained Java-based program, ready to run out-of-the-box, with packages for Windows, Mac OS X and other Unix-like operating systems. As an extensible automation server, Jenkins can be used as a simple CI server or turned into the continuous delivery hub for any project.
 
 
 ### Prerequisites
-1. EC2 Instance 
-   - With Internet Access
+1. - With Internet Access
    - Security Group with Port `8080` open for internet
-1. Java v1.8.x 
+2. Java v1.8.x 
 
 ## Install Java
 1. We will be using open java for our demo, Get the latest version from http://openjdk.java.net/install/

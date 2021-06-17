@@ -1,5 +1,5 @@
 # First-Demo-DevOps-Project
-Demo DevOps Project using Jenkins in Centos installed in VirtualBox
+Demo DevOps Project using Jenkins in Centos installed in VirtualBox Machine
 
 - [Installation Guide](https://github.com/himanshuchandola/First-Demo-DevOps-Project/wiki)
 
